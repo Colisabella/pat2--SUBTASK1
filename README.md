@@ -9,7 +9,7 @@ Morse code developed in the 1830s and 1840s by Samuel Morse and Alfred Vail, it 
 Samuel Morse declared "If the presence of electricity can be made visible in any part of the circuit, I see no reason why intelligence may not be transmitted instantaneously by electricity."
 
 ## How the Morse code works
-The system assigns a unique sequences of short and long signals to each letter of the alphabet and each number.
+The system assigns a unique sequence of short and long signals to each letter of the alphabet and each number.
 Morse code uses:
               - Dots (.)
               - Dahes (-)
@@ -20,7 +20,7 @@ Examples: LETTERS and MORSE CODE
          * S  ...
          * Q  --.-
          * V  ...-
-rn
+
 Translated words to Morse Code:
                               - Good morning ( --. --- --- -.. / -- --- .-. -. .. -. --. )
                               - Talk ( - .- .-.. -.- )
